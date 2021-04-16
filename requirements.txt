@@ -73,4 +73,4 @@ django-shorturls
 
 nose
 django-nose
-django-debug-toolbar==0.11.0
+django-debug-toolbar==1.11.1
